@@ -54,6 +54,8 @@ def solve(temp):
     return answers
 ```
 
+The training data can be found here - [training_data](training_data). 
+This dataset was later used to combine vtk data and prompts/questions to make [vtk_training_data.csv](vtk_training_data.csv)
 
 ## Fine-Tuning Pipeline
 
@@ -62,6 +64,6 @@ def solve(temp):
 - Prepare data for LLM fine-tuning
 
 ## Notebooks
-1. `heat-wave-equation-data-generation.ipynb`: Data generation
-2. `interpreting-heat-wave-equation-using-llm.ipynb`: LLM fine-tuning pipeline
+1. `[heat-wave-equation-data-generation.ipynb](heat-wave-equation-data-generation.ipynb)`: Data generation
+2. `[interpreting-heat-wave-equation-using-llm.ipynb](interpreting-heat-wave-equation-using-llm.ipynb)`: LLM fine-tuning pipeline
 
