@@ -64,6 +64,6 @@ This dataset was later used to combine vtk data and prompts/questions to make [v
 - Prepare data for LLM fine-tuning
 
 ## Notebooks
-1. `[heat-wave-equation-data-generation.ipynb](heat-wave-equation-data-generation.ipynb)`: Data generation
-2. `[interpreting-heat-wave-equation-using-llm.ipynb](interpreting-heat-wave-equation-using-llm.ipynb)`: LLM fine-tuning pipeline
+1. [heat-wave-equation-data-generation.ipynb](heat-wave-equation-data-generation.ipynb): Data generation
+2. [interpreting-heat-wave-equation-using-llm.ipynb](interpreting-heat-wave-equation-using-llm.ipynb): LLM fine-tuning pipeline
 
