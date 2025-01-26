@@ -2,8 +2,7 @@
 # Interpreting Heat Wave Equation using IBM Granite
 
 ## Project Overview
-This project generates and interprets heat equation solutions using IBM Granite.
-
+The project generates heat equation solution using Finite Element Analysis. This data is used to finetune IBM Granite to interpret heat equation solutions (given in a .vtk format file). 
 ## Data Generation
 
 ### Methodology
